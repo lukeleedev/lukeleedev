@@ -1,5 +1,5 @@
 <h2>Hello there :wave:! I'm Luke </h2>
-<a href="https://www.linkedin.com/in/yeong-hoe-lee-264494154">
+<a href="https://www.linkedin.com/in/lukeleeyeonghoe/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.freecodecamp.org/lukeleedev">
