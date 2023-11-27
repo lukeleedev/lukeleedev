@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/freecodecamp-27273D?logo=freecodecamp&logoColor=white">
 </a>
 
-### About Me
-- :office: : I'm currently working as .NET developer in Kuala Lumpur, Malaysia
-- ⚡ : I love coding in Javascript and C#
-
 ### Github Stats
 <a href="https://github.com/lukeleedev"><img src="https://github-readme-stats.vercel.app/api?username=lukeleedev&show_icons=true&theme=dark" align="center"></a>  | <a href="https://github.com/lukeleedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeleedev&theme=dark" align="center"></a>
 --------------|-----------
